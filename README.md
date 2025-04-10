@@ -1,4 +1,6 @@
-# AI-Macro-Bot-Detection-System
+# AIcro: AI-Macro-Bot-Detection-System
+
+#### [Pitchdeck](https://www.figma.com/deck/VqRgYvGJYW4P1Xv8rqokJR) | [Demo]()
 
 ## Overview
 
